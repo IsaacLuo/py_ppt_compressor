@@ -1,4 +1,4 @@
-This is a script for compreesing pptx files
+This is a script for compressing pptx files
 
 Yes, Powerpoint has a compress funtion, but it only crop the picutres and decrease the resolution. It's a good way if all picutres you insterted are jpegs.
 
